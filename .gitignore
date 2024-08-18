@@ -1,0 +1,43 @@
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Operating system generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Go Vendor directory
+/vendor/
+
+# Log files
+*.log
+*.tmp
+*.out
+
+# Build directory
+/build/
+
+# Test results
+*.test
+
+# Coverage files
+*.cov
+*.coverage
+
+# Environment and local config files
+.env
+config.yaml
+config.json
